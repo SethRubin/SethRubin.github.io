@@ -6,7 +6,12 @@ $(document).ready(function(){
 });
 
 function animate(){
-	var images = ["img/ph1.png", "img/ph2.jpg", "img/ph3.jpeg", "img/ph4.jpg", "img/ph1.png", "img/ph2.jpg"];
+	var images = ["http://static.independent.co.uk/s3fs-public/thumbnails/image/2015/12/10/14/Sacha-Baron-Cohen-borat-django-unchained-tarantino.png", 
+	"https://thenypost.files.wordpress.com/2014/11/borat.jpg?quality=100&strip=all", 
+	"https://www.fugly.com/media/IMAGES/Funny/borat_obama.jpg", 
+	"http://www.freakingnews.com/pictures/69000/Borat-s-Wife-69021.jpg", 
+	"http://rack.3.mshcdn.com/media/ZgkyMDE1LzA1LzI4LzM0L21hbmtpbmkuZTRhZmIuanBnCnAJdGh1bWIJOTUweDUzNCMKZQlqcGc/9ef97df4/8c1/mankini.jpg", 
+	"http://4.bp.blogspot.com/_LQQ5FS2UDbY/S_EJ3qeSvUI/AAAAAAAAAQE/ss7974Lr18U/s320/borat.jpg"];
 	var top = [5, 50, 25, 0, 55, 30];
 	var delay = 0;
 
